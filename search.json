@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Personal Page",
+    "section": "",
+    "text": "Fotos\n\n\n\n\n\n\n\n\n\n\n\nNov 28, 2022\n\n\nAbel Alvarez\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 25, 2022\n\n\nAbel Alvarez\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Biemvenido a mi blog. Aquí escribiré sobre mis proyectos, mis pensamientos y mis experiencias. Espero que disfrutes de mi contenido."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Algunas foticos para distraerse",
+    "section": "",
+    "text": ". ."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Abel Alvarez",
+    "section": "",
+    "text": "Professor Abel concentrates his research on mathematical modeling and computer methods for the numerical solution of fluid dynamic equations in heterogeneous porous media. His research focuses on the creation of novel numerical methods for solving hyperbolic partial differential equations, with applications to nonconventional one and two-dimensional transport systems. This type of research has numerous engineering applications, such as increased oil recovery, aquifer cleansing, and epidemic modeling."
+  }
+]
